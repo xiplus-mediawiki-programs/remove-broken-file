@@ -1,0 +1,14 @@
+# Local config and credentials
+config.py
+user-config.py
+user-password.py
+pywikibot*.lwp
+
+# Pywikibot runtime files
+apicache*/
+throttle.ctrl
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
